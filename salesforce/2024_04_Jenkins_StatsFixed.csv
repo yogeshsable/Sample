@@ -1,1 +1,3 @@
-
+Source Repo	Malcode	Biuld no	Jenkins Agent	Build User	Build Tag	Sakesforce/NCINO	Deploy/Validate	Branch	RBC Folder	Source Sandbox	Target Sandbox	Backup Required	Backup Sandbox	Start Time	End Time	SF Deploy Time
+bbcrm-salesforce-dx	BBCRM	7	FENIX-RHEL8	BalanadarasanAbira	jenkins-SALESFORCE-PAT-BBCRM-bbcrm-salesforce-dx-BITBUCKET-SFCLI-PatTest-7	SALESFORCE	VALIDATE	dev-bbhub-6.0	N/A	N/A	fenixpoc	N/A	N/A	4/18/2024 12:34:31 PM	4/18/2024 12:41:13 PM	0:06:42
+bbcrm-salesforce-dx	BBCRM	9	FENIX-RHEL8	BalanadarasanAbira	jenkins-SALESFORCE-PAT-BBCRM-bbcrm-salesforce-dx-NCINO-SFCLI-Deploy-9	NCINO	DEPLOYMENT	dev-bbhub-7.0	nCinoRBC/06DOCUMENTMANAGER	dev70crd	fenixpoc	N	N/A	4/182024 1:23:47 PM	4/182024 1:32:29 PM	1:27:11
